@@ -34,18 +34,5 @@
 
 ---
 
-## 📫 联系我
 
-你可以通过这些方式联系我：
-
-* ✨ GitHub: [https://github.com/Ab4ndon](https://github.com/Ab4ndon)
-* 📬 Email: *（如果愿意的话可以加上）*
-
----
-
-## 📊 GitHub 统计
-
-```
-![Ab4ndon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ab4ndon&show_icons=true&theme=default)
-```
 
